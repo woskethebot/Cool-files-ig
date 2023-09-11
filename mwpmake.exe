@@ -1,0 +1,4 @@
+create new= extension > .mwp = Desc{Microsoft Windws Protection Script} Type{Prtection Script *(.mwp)*}
+Locate{%location%} Size{%Size%} SizeOnDisk{%disksize%}
+Created{%createdaydate%} Modified{%modified%} Accessed{%accessed%}
+Attributes{$tickbox=Read-only} {$tickbox=Hidden} (Advanced...)=code>(Advanced-Menu-0000-0000}

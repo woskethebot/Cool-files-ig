@@ -1,0 +1,9 @@
+ERRORMSG * %errormessage% %s error%msg * Error,, %code% %errornul% = msg * %dialoguebox%=default
+Error404= msgbox * ERROR,, 404 %errormsg%
+set /p %errormsg% ="cmd /c check /r ERRORMSG.exe %% start %Systemdir%\System32\ERRORMSG.exe"
+set /p %code% ="cmd /c check /r ERRORCODE.exe %% if %Systemdir%\System32\ERRORMSG.exe= nostart then="cmd /c start %Systemdir%\System32\ERRORMSG.exe"
+;The Error Messages are below (Doesn't show the Error messages).
+Error %code%: %errormsg%
+msg * %customerrormessage%
+%variableYXZ%=MsgBox("%errordescription%%",%errorbuttonandicon%,"%errortitle%")
+%wscript.exe% %*.vbs%
