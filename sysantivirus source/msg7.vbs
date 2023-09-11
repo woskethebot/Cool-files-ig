@@ -1,0 +1,4 @@
+MsgBox "x DELETE SUCESS1", 16
+MsgBox "c DELETE SUCESS1", 16
+MsgBox "d DELETE SUCESS1", 16
+MsgBox "j DELETE 0", 5+16
