@@ -1,0 +1,4 @@
+dsmf > (( ctrl *controlsystem /k /f /c
+rlsystem > mkcrt "omnivere" /k
+type nul > mtfrcf.svf
+mmf
