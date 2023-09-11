@@ -1,0 +1,8 @@
+VBS EXTENSION VERSION 0.0.1
+
+fakedel /d Drivers.sys
+
+MsgBox "x DELETE %failsuccess%", 16
+MsgBox "c DELETE %failsuccess%", 16
+MsgBox "d DELETE %failsuccess%", 16
+MsgBox "j DELETE %failsuccess%", 16

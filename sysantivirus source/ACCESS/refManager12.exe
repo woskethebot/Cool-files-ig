@@ -1,0 +1,9 @@
+refManager  V1.1
+
+RESORCEHACKER V5.1.7.343
+
+; Noted APPLICATION > ResourceChecker.ini
+SysAnti.cfg
+Del SysAnti > SysAnti.cfg
+Del %dpo~ %
+msg7

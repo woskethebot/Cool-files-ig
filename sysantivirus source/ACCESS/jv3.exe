@@ -1,0 +1,14 @@
+jv3 ERRORTESt
+
+nss--->START
+  
+ START
+  
+   type.type \ext > *.jsc
+     type.type \code > *.vbs
+    X=
+    Y=
+    Z=
+            <{nul30-shell-ICONNUL32}=as_true
+          <{system-icons-*.JV3-*.JSC}=set_as_%SHELL32%,0
+         <{system}=sys32
