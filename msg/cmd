@@ -1,0 +1,15 @@
+Command Prompt Version 10.0.19045.2604
+
+msg * %textbox%
+msg % %vbsreg%
+ui = %errorbox%
+msg %*% = x=msgbox("% %", % +  %, "% %")
+
+nss Ver=10.1.18085.2504
+
+=
+nss = Terminal enable /r %SYSTEM32%\cmd.exe
+nss Terminal = msg * nssTerminalTest
+nss = CommandMaker.nssT =("X=Verfication,0+16,"Verify DialogueBox")
+Coding Terminal = {f1d09117c-n5fg-hf52-aef2-f9fcdee59be0}
+time = -t %unlimited%

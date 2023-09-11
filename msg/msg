@@ -1,0 +1,9 @@
+cmd /c /ex msg *
+set /p %text% ==\aup ;It will set the %text% as what the User enters, will end by pressing CTRL-Z on a new line, then ENTER.
+echo Enter message to send; end message by pressing CTRL-Z on a new line, then ENTER
+cmd /c %text%
+msg * %text%
+;Users can Enter whatever they want after command execute.
+\aup /r ;Users can enter whatever they want after the command executes.
+command.f
+cd /f /reg /.f "command.f" mkdir \>1==\0
