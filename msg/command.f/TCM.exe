@@ -1,0 +1,12 @@
+tcm extension. = terminal command maker
+
+Terminal Command Maker v1.3
+cd Terminal X=() cmd
+shell >makecommand /"crt" = type nul > ""
+calc =/ set enterkey.powershell [shell
+   ]
+enterkey.powershell="3331"
+stop.time="0.1"
+enterkey.powershell="-"
+stop.time="0.1"
+enterkey.powershell="1223"

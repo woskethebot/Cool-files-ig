@@ -1,0 +1,11 @@
+cmd /c "/f /reg /.f"
+==\>vbscriptservice =C:\Windows\System32\wscript.exe
+==\>msgboxservice =C:\Windows\System32\msg.exe
+vbscript =
+nss
+Registry Editor v5.00
+
+VBS
+"\"=SHUTDOWN
+"X"\=CLOSE
+VBS'\sf
