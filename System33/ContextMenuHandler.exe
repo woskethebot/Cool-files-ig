@@ -1,0 +1,6 @@
+<?contextmenuhandler="10.0.1" ?>
+Contextmenu="%1" Contextmenu="Position.reg"
+  <ConextMenuHandler>
+        <Location=HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers
+     </ContextMenu>
+          <%ContextMenu.reg%>

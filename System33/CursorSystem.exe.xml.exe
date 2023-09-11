@@ -1,0 +1,2 @@
+CTRL MOUSESYSTEM >nul nobreak
+CTRL CURSORMOVEMENT >nul %1"

@@ -1,0 +1,5 @@
+CursorMovement=MousePointer>ControlPanel<
+CursorDefault= C:\Windows\Cursors\%cursors%
+%.reg%=Cursor.Windows.%version%\
+EXPORT > Computer\HKEY_CURRENT_USER\Control Panel\Mouse\%cursorsetting% "%username%\desktop\cursorsettings.reg"
+sfc /"merge admin= filename= cursorsettings.reg locate= %sername%\desktop\ =YesToAll && sfc /del /d cursorsettings.reg
